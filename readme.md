@@ -111,7 +111,7 @@ Extensive experience in Wordpress with close to 100 websites for 40+ real estate
 
 **Freelance**
 
-- UI/UX Design - During a two-month contract designed and prototyped an IOT app authoring web-application previously named Interface. With a small team, outlined the scope of the apps services, planned the implementation of the single-page front end, storyboarded the user flow, and created visual assets.   
+- UI/UX Design - During a two-month contract designed and prototyped an IOT app authoring web-application previously named Interface. With a small team, outlined the scope of the app's services, planned the implementation of the single-page front end, storyboarded the user flow, and created visual assets.   
 
 - Website Development - Multiple portfolio websites created to showcase professional work and services with custom, responsive WP themes while providing general CMS training, SEO, and ongoing updates.   
 
