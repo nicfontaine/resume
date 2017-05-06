@@ -68,6 +68,7 @@ Google Analytics Certified, GDN image ad campaigns, email marketing and responsi
 - MacOS, Windows
 - HTML5, CSS3, PHP, Bash
 - JS, NodeJS, Npm, JSON, ES2015
+- Handlebars, Jquery, Express, Phaser
 - Firefox & Chrome Dev Tools
 - Apache, SSH, SFTP, SSL, AWS
 - Git, Subversion
