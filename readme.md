@@ -7,7 +7,7 @@
 - [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech)
 - [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience)
 - [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
-- [Contact](https://githhub.com/ngpfontaine/resume/blob/master/readme.md#contact)
+- [Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact)
 
 ## Education
 
