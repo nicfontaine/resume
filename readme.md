@@ -2,7 +2,6 @@
 
 > Digital Designer, Developer, & Marketing Creative   
 
-- [Objective](https://github.com/ngpfontaine/resume/blob/master/readme.md#objective)
 - [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education)
 - [Skills](https://github.com/ngpfontaine/resume/blob/master/readme.md#skills)
 - [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech)
@@ -10,7 +9,7 @@
 - [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
 - [Contact](https://githbub.com/ngpfontaine/resume/blob/master/readme.md#contact)
 
-### Education
+## Education
 
 B.A. New Media
 
@@ -18,30 +17,29 @@ B.A. New Media
 - Graduated with Distinction.
 - Concentration in 3D Animation
 
-##### Coursework
+#### Coursework
 
 - Digital Design Principles
-- Web Design
+- Web Design & Interface Design
 - Advanced Animation Techniques
-- Interface Design
-- Video Editing
-- Motion Graphics
-- Drawing
-- History of Animation
+- Video Editing & Motion Graphics
+- Branding & Marketing
+- Figure Drawing & Concepting
+- Animation & Art Histories
 
-##### Training
+#### Training
 
-Adobe Creative Suite - including graphic design, branding, vector graphics, photo/video editing, digital painting and animation, compositing, UI prototyping and implementation.   
+- **Adobe Creative Suite** - including graphic design, branding, vector graphics, photo/video editing, digital painting and animation, compositing, UI prototyping and implementation.   
 
-3D programs Maya and Zbrush - including environment, character and mechanical modeling, texturing, rigging, animation, rendering.   
+- **3D programs Maya and Zbrush** - including environment, character and mechanical modeling, texturing, rigging, animation, rendering.   
 
-Drawing - including figure, industrial, shading and proportion study, character design, concepting, storyboarding, and logo design.   
+- **Drawing** - including figure, industrial, shading and proportion study, character design, concepting, storyboarding, and logo design.   
 
-Group Projects - including large and small multimedia projects sometimes spanning the semester, leadership and workload delegation.   
+- **Group Projects** - including large and small multimedia projects sometimes spanning the semester, leadership and workload delegation.   
 
-Internship - experience managing website portal updates, social media engagement, email newsletters, and database management for a leadership training non-profit.   
+- **Internship** - experience managing website portal updates, social media engagement, email newsletters, and database management for a leadership training non-profit.   
 
-### Skills
+## Skills
 
 ##### Web Development / Interactive
 
@@ -63,21 +61,25 @@ Google Analytics Certified, GDN image ad campaigns, email marketing and responsi
 
 3D and VR GUI design, Character sculpting, mechanical modeling, texture painting, and extensive character and facial animation. Video editing and 2D graphic & text animation, motion tracking, and post compositing.   
 
-### Tech
+## Tech
 
-- Linux (Desktop & Server), MacOS, Windows
+##### Development
+- Linux: Ubuntu, Fedora, Arch
+- MacOS, Windows
 - HTML5, CSS3, PHP, Bash
 - JS, NodeJS, Npm, JSON, ES2015
 - Firefox & Chrome Dev Tools
-- SSH, cPanel, SFTP, SSL certs
+- Apache, SSH, SFTP, SSL, AWS
 - Git, Subversion
-- Android and iOS testing
+- Android & iOS testing
 
+##### Design & Animation
 - Photoshop, Illustrator, Indesign
 - InvisionApp, Sketch, Draw.io, Gliffy
 - After Effects, Premiere, Final Cut
-- Unity3D
+- Unity3D, Maya, Modo, Zbrush
 
+##### Marketing & Testing
 - Google Analytics
 - Adwords, Google Search Console
 - Campaign Monitor, Mailchimp
@@ -85,57 +87,62 @@ Google Analytics Certified, GDN image ad campaigns, email marketing and responsi
 - Visual Website Optimizer
 - CrazyEgg, Mouseflow
 
-- MS, Libre, Open Offices
+##### Project Management
 - Slack, Jira, Trello, Asana
+- MS, Libre, & Open Offices
 
-### Experience
+## Experience
 
-**Mursion** May 2016 - Present
-~~Designer, Front-End Developer, Animator~~
+**Designer, Front-End Developer, Animator**
+> _Mursion_ - May 2016 - Present   
 
-Lorem Ipsum   
+Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads. Ongoing work developing a cohesive portal and interactive analytics viewer for session scheduling/matchmaking, simulation design and launch, system verification for hardware compatibility testing, resource materials, and visual metrics and recordings.
 
-**Element-360** Sep 2014 - May 2016
-~~Internet Marketing Designer/Developer~~
+Work with the software dev team to design visual assets for proprietary technologies, as well as provide responsive web front-ends for a variety of client and internal uses. Led the re-design of the company website in the fall of 2016 and manage ongoing updates & support. Consult with the sales team for new lead generation, SEO, analytics, CRM, both internal and external facing email communication, and marketing materials.
 
-In charge of all visual development and programming including image & HTML5 ad creation, refining site performance with A/B testing and heatmap/behaviour analysis, and technical SEO auditing.   
+Additionally, support the animation pipeline providing character idles, gestures, and facials for 3D adult and child avatars, and weight paint new characters. I pose, clean, and embelish mocap animations in Motion Builder and Maya and test & tweak in game within Unity 3D. I work closely with the character artists and interactors for input on rigging, blend shapes, facial animation, and body language communication, and QA for technical changes and bug fixes.
 
-Extensive experience in Wordpress with close to 100 websites for 40+ real estate communities from around the country involving site speed recommendations, behaviour flow research, tracking code implementation, site updates, and sitemaps. I work within diverse brand guidlines to design complementary ads (based on Adwords PPC text-ad performance), responsive email newsletters, and landing pages for lead generation.   
+**Internet Marketing Designer/Developer**   
+> _Element-360_ - Sep 2014 - May 2016   
+
+Was in charge of all visual development and programming including image & HTML5 ad creation, refining site performance with A/B testing and heatmap/behaviour analysis, and technical SEO auditing.   
+
+Extensive experience in Wordpress with close to 100 websites for 40+ real estate communities from around the country involving site speed recommendations, behaviour flow research, tracking code implementation, site updates, and sitemaps. Worked within diverse brand guidlines to design complementary ads (based on Adwords PPC text-ad performance), responsive email newsletters, and landing pages for lead generation.   
 
 **Freelance**
 
-UI/UX Design - During a two-month contract designed and prototyped an IOT app authoring web-application previously named Interface. I, with a small team, outlined the scope of the apps services, planned the implementation of the single-page front end, storyboarded the user flow, and created visual assets.   
+- UI/UX Design - During a two-month contract designed and prototyped an IOT app authoring web-application previously named Interface. With a small team, outlined the scope of the apps services, planned the implementation of the single-page front end, storyboarded the user flow, and created visual assets.   
 
-Website Development - Multiple portfolio websites created to showcase professional work and services with custom, responsive WP themes while providing general CMS training, SEO, and ongoing updates.   
+- Website Development - Multiple portfolio websites created to showcase professional work and services with custom, responsive WP themes while providing general CMS training, SEO, and ongoing updates.   
 
-Design - Logo rework for a startup mobile app, and 3D modeling for 3D printing for a local law firm.   
+- Design - Logo rework for a startup mobile app, and 3D modeling for 3D printing for a local law firm.   
 
-**The Littlest Golfer, Inc.** Apr 2013 - Aug 2014
-Game Designer, Illustrator, 3D Artist, Animator, and Video Editor 
+**Game Designer, Illustrator, 3D Artist & Animator**  
+> _The Littlest Golfer, Inc._ - Apr 2013 - Aug 2014   
 
-Game designer and lead artist for 2D mobile game **Bunker Blast** created in Unity3D and sold on the App Store and Google Play. I created the UI, static art assets, character animations in photoshop spritesheets for Unity3D, designed puzzle-based levels, and image ads for the game release.   
+Game designer and lead artist for 2D mobile game Bunker Blast created in Unity3D and sold on the App Store and Google Play. Created the UI, static art assets, character animations in photoshop spritesheets for Unity3D, designed puzzle-based levels, and image ads for the game release.   
 
-Additionally, worked in small team to create a 3D Animated Pilot children's show. I designed, modeled, rigged, and animated characters, handled all editing, compositing, and credits within After Effects, and created promotional print materials for the show premiere.   
+Additionally, worked in small team to create a 3D Animated Pilot children's show. Designed, modeled, rigged, and animated characters, handled all editing, compositing, and credits within After Effects, and created promotional print materials for the show premiere.   
 
-**Leadership Asheville** Internship Aug. 2012 - Dec. 2012
-~~Designer, Web Tech, Social Media~~
+**Designer, Web Tech, Social Media Manager**
+> _Leadership Asheville_ - Internship Aug. 2012 - Dec. 2012   
 
 Managed web site maintenance within Wordpress for an active portal used by over 80 participants of an annual leadership training course.   
 
-In addition, I created event stationary and promo prints for fundraisers, designed seasonal event newsletters, promoted events on social media, and managed online donation records and contact database.   
+In addition, created event stationary and promo prints for fundraisers, designed seasonal event newsletters, promoted events on social media, and managed online donation records and contact database.   
 
-### References
+## References
 
-**Chad Martin - Element-360**  |  President
+**Chad Martin** - Element-360  |  President
 
-**Claudette Silver - Silver Muse Productions**  |  Owner
+**Claudette Silver** - Silver Muse Productions  |  Owner
 
-**Christopher Oakley - UNC Asheville**  |  Tenured Animation Professor & Mentor
+**Christopher Oakley** - UNC Asheville  |  Tenured Animation Professor & Mentor
 
-**Matt Shanor - The Littlest Golfer, Inc.**  |  Art Director
+**Matt Shanor** - The Littlest Golfer, Inc.  |  Art Director
 
+## Contact
 
-### Contact
-
-NGPFontaine@gmail.com
-nicfontaine.com
+[NGPFontaine@gmail.com](mailto:ngpfontaine@gmail.com)   
+[nicfontaine.com](https://nicfontaine.com)   
+San Francisco, CA 94110
