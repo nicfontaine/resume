@@ -98,7 +98,7 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 ## Experience
 
 **Designer, Front-End Developer, Animator**
-_Mursion_
+_Mursion_   
 > May 2016 - Present   
 
 Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads. Ongoing work developing a cohesive portal and interactive analytics viewer for session scheduling/matchmaking, simulation design and launch, system verification for hardware compatibility testing, resource materials, and visual metrics and recordings browser.
@@ -108,7 +108,7 @@ Work with the software dev team to design visual assets for proprietary technolo
 Additionally, support the animation pipeline providing character idles, gestures, and facials for 3D adult and child avatars, and weight paint new characters. Pose, clean, and embelish mocap animations in Motion Builder and Maya and test & tweak in game within Unity 3D. Work closely with the character artists and interactors for input on rigging, blend shapes, facial animation, and body language communication, and QA team for technical changes and bug fixes.   
 
 **Internet Marketing Designer/Developer**   
-_Element-360_
+_Element-360_   
 > September 2014 - May 2016   
 
 In charge of all visual development and programming including image & HTML5 ad creation, refining site performance with A/B testing and heatmap/behaviour analysis, and technical SEO auditing.   
@@ -124,7 +124,7 @@ Extensive experience in Wordpress with close to 100 websites for 40+ real estate
 - Design - Logo rework for a startup mobile app, and 3D modeling for 3D printing for a local law firm.   
 
 **Game Designer, Illustrator, 3D Artist & Animator**  
-_The Littlest Golfer, Inc._
+_The Littlest Golfer, Inc._   
 > April 2013 - August 2014   
 
 Game designer and lead artist for 2D mobile game Bunker Blast created in Unity3D and sold on the App Store and Google Play. Created the UI, static art assets, character animations in photoshop spritesheets for Unity3D, designed puzzle-based levels, and image ads for the game release.   
@@ -132,7 +132,7 @@ Game designer and lead artist for 2D mobile game Bunker Blast created in Unity3D
 Additionally, worked in small team to create a 3D Animated Pilot children's show. Designed, modeled, rigged, and animated characters, handled all editing, compositing, and credits within After Effects, and created promotional print materials for the show premiere.   
 
 **Designer, Web Tech, Social Media Manager Internship**
-_Leadership Asheville_
+_Leadership Asheville_   
 > Internship August 2012 - December 2012   
 
 Managed web site maintenance within Wordpress for an active portal used by over 80 participants of an annual leadership training course.   
