@@ -115,7 +115,7 @@ In charge of all visual development and programming including image & HTML5 ad c
 
 Extensive experience in Wordpress with close to 100 websites for 40+ real estate communities from around the country involving site speed recommendations, behaviour flow research, tracking code implementation, site updates, and sitemaps. Work within diverse brand guidelines to design sites and landing pages for lead generation, complementary ads (based on Adwords PPC text-ad performance), and responsive email newsletters.   
 
-**Freelance**
+**Freelance**   
 
 - UI/UX Design - During a two-month contract designed and prototyped an IOT app authoring web-application. With a small team, outlined the scope of the app's services, planned the implementation of the single-page front end, storyboarded the user flow, and created visual assets.   
 
@@ -123,7 +123,7 @@ Extensive experience in Wordpress with close to 100 websites for 40+ real estate
 
 - Design - Logo rework for a startup mobile app, and 3D modeling for 3D printing for a local law firm.   
 
-**Game Designer, Illustrator, 3D Artist & Animator**  
+**Game Designer, Illustrator, 3D Artist & Animator**   
 _The Littlest Golfer, Inc._   
 > April 2013 - August 2014   
 
@@ -131,7 +131,7 @@ Game designer and lead artist for 2D mobile game Bunker Blast created in Unity3D
 
 Additionally, worked in small team to create a 3D Animated Pilot children's show. Designed, modeled, rigged, and animated characters, handled all editing, compositing, and credits within After Effects, and created promotional print materials for the show premiere.   
 
-**Designer, Web Tech, Social Media Manager Internship**
+**Designer, Web Tech, Social Media Manager Internship**   
 _Leadership Asheville_   
 > Internship August 2012 - December 2012   
 
