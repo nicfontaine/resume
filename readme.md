@@ -41,7 +41,7 @@ B.A. New Media
 
 ##### Web Development / Interactive
 
-Front-end design using HTML5, CSS3, Vanilla JS, Node, and PHP with a focus on visual communication and hiearchy, input paradigms and testing, user-flow & refinement to create unified experiences across legacy and emerging products.   
+Front-end design using HTML5, CSS3, Vanilla JS, Node, and PHP with a focus on visual communication and hiearchy, input paradigms and testing, user-flow & refinement to create unified experiences across legacy and emerging products, and overall user-advocacy.  
 
 Design of responsive interfaces, web-apps, landing pages, and traditional sites utilizing interactive & assistive UI, cross-platform branding, load optimization, device testing, database integration, analytics, and technical SEO and site-auditing.   
 
@@ -70,7 +70,8 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 - JS, NodeJS, Npm, JSON, ES6
 - Handlebars, Jquery, Express, Phaser
 - Firefox & Chrome Dev Tools
-- Apache, SSH, SFTP, SSL, AWS
+- Apache, REST, SSH, SSL
+- AWS & Digital Ocean Environments
 - Git, Subversion
 - Android & iOS testing
 
