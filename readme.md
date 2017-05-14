@@ -55,7 +55,7 @@ Design, presentation, and implementation of wireframes, storyboards, mock-ups, a
 
 Google Analytics Certified, GDN image ad campaigns, email marketing and responsive email coding, A/B landing page testing for CRO, heat/scrollmap analysis, and device testing and profiling for analytics.   
 
-##### 3D & Video
+##### 3D & Video 
 
 3D and VR GUI design, Character sculpting, mechanical modeling, texture painting, and extensive character and facial animation.   
 
@@ -67,7 +67,7 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 - Linux: Ubuntu, Fedora, Arch (Desktop & Server)
 - MacOS, Windows
 - HTML5, CSS3, PHP, Bash
-- JS, NodeJS, Npm, JSON, ES2015
+- JS, NodeJS, Npm, JSON, ES6
 - Handlebars, Jquery, Express, Phaser
 - Firefox & Chrome Dev Tools
 - Apache, SSH, SFTP, SSL, AWS
@@ -119,7 +119,7 @@ Extensive experience in Wordpress with close to 100 websites for 40+ real estate
 
 - UI/UX Design - During a two-month contract designed and prototyped an IOT app authoring web-application. With a small team, outlined the scope of the app's services, planned the implementation of the single-page front end, storyboarded the user flow, and created visual assets.   
 
-- Website Development - Multiple portfolio websites created to showcase professional work and services with custom, responsive WP themes while providing general CMS training, SEO, and ongoing updates.   
+- Website Development - Multiple portfolio websites created to showcase professional work and services with custom, responsive WP themes while providing general CMS training, SEO, and ongoing maintenance and updates.   
 
 - Design - Logo rework for a startup mobile app, and 3D modeling for 3D printing for a local law firm.   
 
