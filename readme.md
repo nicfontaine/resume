@@ -2,12 +2,19 @@
 
 > Digital Designer, Developer, & Marketing Creative   
 
+- [Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact)
 - [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education)
 - [Skills](https://github.com/ngpfontaine/resume/blob/master/readme.md#skills)
 - [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech)
 - [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience)
 - [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
-- [Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact)
+
+
+## Contact
+
+[NGPFontaine@protonmail.com](mailto:ngpfontaine@protonmail.com)   
+[nicfontaine.com](https://nicfontaine.com)   
+San Francisco, CA 94110
 
 ## Education
 
@@ -143,9 +150,3 @@ In addition, created event stationary and promo prints for fundraisers, designed
 **Christopher Oakley** - UNC Asheville  |  Tenured Animation Professor & Mentor
 
 **Matt Shanor** - The Littlest Golfer, Inc.  |  Art Director
-
-## Contact
-
-[NGPFontaine@gmail.com](mailto:ngpfontaine@gmail.com)   
-[nicfontaine.com](https://nicfontaine.com)   
-San Francisco, CA 94110
