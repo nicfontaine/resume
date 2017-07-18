@@ -21,21 +21,12 @@ B.A. New Media
 
 - Digital Design Principles
 - Web Design & Interface Design
+- Storyboarding & Wireframing
 - Advanced Animation Techniques
 - Video Editing & Motion Graphics
 - Branding & Marketing
 - Figure Drawing & Concepting
-- Art & Animation Histories
-
-#### Training
-
-- **Adobe Creative Suite** - including graphic design, branding, vector graphics, photo/video editing, digital painting and animation, compositing, UI prototyping and implementation.   
-
-- **3D programs Maya and Zbrush** - including environment, character and mechanical modeling, texturing, rigging, animation, rendering.   
-
-- **Drawing** - including figure, industrial, shading and proportion study, character design, concepting, storyboarding, and logo design.    
-
-- **Internship** - experience managing website portal updates, social media engagement, email newsletters, and database management for a leadership training non-profit.   
+- Art & Animation Histories   
 
 ## Skills
 
@@ -102,11 +93,11 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 _Mursion_   
 > May 2016 - Present   
 
-Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads. Ongoing work developing a cohesive portal and interactive analytics viewer for session scheduling/matchmaking, simulation design and launch, system verification for hardware compatibility testing, resource materials, and visual metrics and recordings browser.
+Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads, and communicate wifh offshore team for design standards and cohesion across emerging technologies and software updates. Work with both the software dev, and art teams to design visual assets for proprietary technologies; as well as produce responsive web front-ends and Unity3D UIs for a variety of client and internal uses.    
 
-Work with the software dev team to design visual assets for proprietary technologies, as well as provide responsive web front-ends for a variety of client and internal uses. Led the re-design of the company website in the fall of 2016 and manage ongoing updates & support. Consult with the sales team for new lead generation, SEO, analytics, CRM, both internal and external facing email communication, and marketing assets.   
+Ongoing work, from wireframe to release, developing a native software portal and interactive analytics web-app for session scheduling/matchmaking, simulation design and launch, guided system verification for hardware compatibility testing, resource materials, and visual metrics and recordings dashboard.   
 
-Additionally, support the animation pipeline providing character idles, gestures, and facials for 3D adult and child avatars, and weight paint new characters. Pose, clean, and embelish mocap animations in Motion Builder and Maya and test & tweak in game within Unity 3D. Work closely with the character artists and interactors for input on rigging, blend shapes, facial animation, and body language communication, and QA team for technical changes and bug fixes.   
+Led the re-design of the company website in the fall of 2016 and manage ongoing updates & support. I regularly consult with the sales team for new lead generation, SEO, analytics, CRM, both internal and external facing email communications, and marketing assets for campaigns and conferences, and QA team for technical changes, bug fixes, and client support.      
 
 **Internet Marketing Designer/Developer**   
 _Element-360_   
@@ -115,6 +106,9 @@ _Element-360_
 In charge of all visual development and programming including image & HTML5 ad creation, refining site performance with A/B testing and heatmap/behaviour analysis, and technical SEO auditing.   
 
 Extensive experience in Wordpress with close to 100 websites for 40+ real estate communities from around the country involving site speed recommendations, behaviour flow research, tracking code implementation, site updates, and sitemaps. Work within diverse brand guidelines to design sites and landing pages for lead generation, complementary ads (based on Adwords PPC text-ad performance), and responsive email newsletters.   
+
+Managed apprenticeship of Junior Dev in getting up to speed with our clients’ personnel and products, technology suite, and industry trade-secrets & best practices in preparation to succeed my position.   
+
 
 **Freelance**   
 
