@@ -100,7 +100,7 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 _Mursion_   
 > May 2016 - Present   
 
-Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads, and communicate wifh offshore team for design standards and cohesion across emerging technologies and software updates. Work with both the software dev, and art teams to design visual assets for proprietary technologies; as well as produce responsive web front-ends and Unity3D UIs for a variety of client and internal uses.    
+Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads, and communicate with offshore team for design standards and cohesion across emerging technologies and software updates. Work with both the software dev, and art teams to design visual assets for proprietary technologies; as well as produce responsive web front-ends and Unity3D UIs for a variety of client and internal uses.    
 
 Ongoing work, from wireframe to release, developing a native software portal and interactive analytics web-app for session scheduling/matchmaking, simulation design and launch, guided system verification for hardware compatibility testing, resource materials, and visual metrics and recordings dashboard.   
 
