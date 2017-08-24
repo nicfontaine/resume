@@ -2,19 +2,15 @@
 
 > Digital Designer, Developer, & Marketing Creative   
 
-- [Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact)
-- [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education)
-- [Skills](https://github.com/ngpfontaine/resume/blob/master/readme.md#skills)
-- [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech)
-- [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience)
-- [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
+[Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact) | [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education) | [Skills](https://github.com/ngpfontaine/resume/blob/master/readme.md#skills) | [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech) | [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience) | [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
 
 
 ## Contact
 
 [NGPFontaine@protonmail.com](mailto:ngpfontaine@protonmail.com)   
 [nicfontaine.com](https://nicfontaine.com)   
-San Francisco, CA 94110
+[Linkedin](https://www.linkedin.com/in/nic-fontaine-67304062/)
+San Francisco, CA
 
 ## Education
 
