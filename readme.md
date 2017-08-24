@@ -22,12 +22,13 @@ B.A. New Media
 
 - UNC Asheville 2012 
 - Graduated with Distinction
-- Concentration in 3D Animation
+- Concentration in 3D Animation & Graphic Design
 
 #### Coursework
 
 - Digital Design Principles
 - Web Design & Interface Design
+- Web Development & Flash Scripting
 - Storyboarding & Wireframing
 - Advanced Animation Techniques
 - Video Editing & Motion Graphics
@@ -66,6 +67,7 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 - MacOS, Windows
 - HTML5, CSS3, PHP, Bash
 - JS, NodeJS, Npm, JSON, ES6
+- Electron
 - Handlebars, Jquery, Express, Phaser
 - Firefox & Chrome Dev Tools
 - Apache, REST, SSH, SSL
@@ -81,14 +83,14 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 - Ableton Live, Logic Pro
 
 ##### Marketing & Testing
-- Google Analytics Certified
+- Google Analytics
 - Adwords, Tag Manager, Google Search Console
 - Campaign Monitor, Mailchimp
 - Salesforce, Hubspot, Insightly
 - Visual Website Optimizer
 - CrazyEgg, Mouseflow
 
-##### Project Management
+##### Project Management & Communication
 - Slack, Jira, Trello, Asana
 - MS, Libre, & Open Offices
 - Zoom API
@@ -100,9 +102,11 @@ Video editing and 2D graphic & text animation, motion tracking, and post composi
 _Mursion_   
 > May 2016 - Present   
 
-Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads, and communicate with offshore team for design standards and cohesion across emerging technologies and software updates. Work with both the software dev, and art teams to design visual assets for proprietary technologies; as well as produce responsive web front-ends and Unity3D UIs for a variety of client and internal uses.    
+Manage visual design, implementation, and best practices for a variety of products including mobile, web, and native software for clients and leads, and communicate with offshore team for design standards and cohesion across emerging technologies and software updates. Work with both the software dev, and art teams to design visual assets for proprietary technologies; as well as produce responsive web front-ends and Unity3D UIs for a variety of client and internal uses. Develop interactive wireframes and lead UX/design discussion for emerging products, before bringing those designs to release.    
 
-Ongoing work, from wireframe to release, developing a native software portal and interactive analytics web-app for session scheduling/matchmaking, simulation design and launch, guided system verification for hardware compatibility testing, resource materials, and visual metrics and recordings dashboard.   
+In-progress development of a native software portal and interactive analytics web-app for session scheduling/matchmaking, simulation design and launch, guided system verification for hardware compatibility testing, resource materials, and visual metrics and recordings dashboard.   
+
+Design and development of a small but powerfull session booking Node webapp that: connects users to scheduled simulation rooms, creates conferencing links using the ZoomAPI, emails confirmation with connection link, calendar files, and cancellation link, and schedules and sends a reminder emails at a set time before the simulation. The app also contains a separate admin login to view all scheduled sessions, create new scheduling delivery calendar, and export database information to csv.   
 
 Led the re-design of the company website in the fall of 2016 and manage ongoing updates & support. I regularly consult with the sales team for new lead generation, SEO, analytics, CRM, both internal and external facing email communications, and marketing assets for campaigns and conferences, and QA team for technical changes, bug fixes, and client support.      
 
@@ -114,7 +118,9 @@ In charge of all visual development and programming including image & HTML5 ad c
 
 Extensive experience in Wordpress with close to 100 websites for 40+ real estate communities from around the country involving site speed recommendations, behaviour flow research, tracking code implementation, site updates, and sitemaps. Work within diverse brand guidelines to design sites and landing pages for lead generation, complementary ads (based on Adwords PPC text-ad performance), and responsive email newsletters.   
 
-Managed apprenticeship of Junior Dev in getting up to speed with our clients’ personnel and products, technology suite, and industry trade-secrets & best practices in preparation to succeed my position.   
+Developed internal tools to facilitate SEO, user experience and engagement, and campaign reporting. Led research and testing discussion for A/B and multiviariant testing campaigns within the company as well as client reporting.   
+
+Managed apprenticeship of Junior Dev in getting up to speed with our clients’ personnel and products, technology suite, design standards, and industry trade-secrets & best practices.
 
 
 **Freelance**   
