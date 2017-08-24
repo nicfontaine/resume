@@ -2,7 +2,7 @@
 
 > Digital Designer, Developer, & Marketing Creative   
 
-[Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact) | [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education) | [Skills](https://github.com/ngpfontaine/resume/blob/master/readme.md#skills) | [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech) | [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience) | [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
+[Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact)  |  [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education)  |  [Skills](https://github.com/ngpfontaine/resume/blob/master/readme.md#skills)  |  [Tech](https://github.com/ngpfontaine/resume/blob/master/readme.md#tech)  |  [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience)  |  [References](https://github.com/ngpfontaine/resume/blob/master/readme.md#references)
 
 
 ## Contact
