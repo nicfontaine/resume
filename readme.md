@@ -54,6 +54,7 @@ Google Analytics Certified, GDN image ad campaigns, email marketing and responsi
 
 3D and VR GUI design, Character sculpting, mechanical modeling, texture painting, and extensive character and facial animation.   
 
+Ongoing work, from wireframe to release, developing 
 Video editing and 2D graphic & text animation, motion tracking, and post compositing.  
 
 ## Tech
@@ -102,7 +103,7 @@ Manage visual design, implementation, and best practices for a variety of produc
 
 In-progress development of a native software portal and interactive analytics web-app for session scheduling/matchmaking, simulation design and launch, guided system verification for hardware compatibility testing, resource materials, and visual metrics and recordings dashboard.   
 
-Design and development of a small but powerfull session booking Node webapp that: connects users to scheduled simulation rooms, creates conferencing links using the ZoomAPI, emails confirmation with connection link, calendar files, and cancellation link, and schedules and sends a reminder emails at a set time before the simulation. The app also contains a separate admin login to view all scheduled sessions, create new scheduling delivery calendar, and export database information to csv.   
+Design and development of a small but powerful session booking Node webapp that: connects users to scheduled simulation rooms, creates conferencing links using the ZoomAPI, emails confirmation with connection link, calendar files, and cancellation link, and schedules and sends a reminder emails at a set time before the simulation. The app also contains a separate admin login to view all scheduled sessions, create new scheduling delivery calendar, and export database information to csv.   
 
 Led the re-design of the company website in the fall of 2016 and manage ongoing updates & support. I regularly consult with the sales team for new lead generation, SEO, analytics, CRM, both internal and external facing email communications, and marketing assets for campaigns and conferences, and QA team for technical changes, bug fixes, and client support.      
 
