@@ -9,7 +9,7 @@
 
 [NGPFontaine@protonmail.com](mailto:ngpfontaine@protonmail.com)   
 [nicfontaine.com](https://nicfontaine.com)   
-[Linkedin](https://www.linkedin.com/in/nic-fontaine-67304062/)
+[Linkedin](https://www.linkedin.com/in/nic-fontaine-67304062/)   
 San Francisco, CA
 
 ## Education
