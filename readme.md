@@ -42,19 +42,18 @@ Design of responsive interfaces, web-apps, landing pages, and traditional sites 
 
 ##### Graphic Design & Illustration
 
-From classically inspired, clean vector design to rich cartoon & fantasy illustration; including full branding, typography, color theory and palettes, ad design, iconography, photo-editing, and digital painting.   
+From classically inspired, clean vector design to rich cartoon & fantasy illustration; including full branding, typography, color theory and palettes, interface elements, ad design, iconography, photo-editing, and digital painting.   
 
-Design, presentation, and implementation of wireframes, storyboards, mock-ups, and user-flows. Assistive tools, resources, and communications to support both internal and client-side needs, and reporting on analytics, project timelines, and product releases.   
+Design, presentation, and implementation of wireframes, storyboards, mock-ups, and user-flows. Assistive tools, resources, and communications to support both internal and client-side needs, and visual reporting on analytics, project timelines, and product releases.   
 
 ##### Marketing & Testing 
 
-Google Analytics Certified, GDN image ad campaigns, email marketing and responsive email coding, A/B landing page testing for CRO, heat/scrollmap analysis, and device testing and profiling for analytics.   
+Google Analytics Certified, GDN image ad campaigns, email marketing and responsive email coding, A/B landing page testing for CRO, heat/scrollmap analysis, technical copy-writing/documentation, and device testing and profiling for analytics.    
 
 ##### 3D & Video 
 
 3D and VR GUI design, Character sculpting, mechanical modeling, texture painting, and extensive character and facial animation.   
 
-Ongoing work, from wireframe to release, developing 
 Video editing and 2D graphic & text animation, motion tracking, and post compositing.  
 
 ## Tech
