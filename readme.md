@@ -53,7 +53,7 @@ My diverse background enables me to architect custom, holistic solutions to each
 
 ## Experience
 
-**Front-End Designer & Developer, Animator**
+**Front-End Designer & Developer, Animator**   
 _Mursion_   
 > May 2016 - Present   
 
@@ -69,7 +69,7 @@ Handled all client-branded visuals and web development including image & HTML5 a
 
 Developed internal tools to facilitate SEO, campaign reporting, CRO, and user experience. Led research and testing discussion for A/B and multiviariant testing campaigns in planning & client reporting, and regularly audited performance of image/text ads and conversion rate & organic search improvements.   
 
-**Contract UX Designer**
+**Contract UX Designer**   
 _ThingFace_
 > Aug 2014 - Sept 2016   
 
@@ -84,8 +84,8 @@ Game designer and lead artist for 2D mobile game created in Unity3D and sold on 
 Additionally, worked in small team to create a 3D Animated Pilot children's show. Designed, modeled, rigged, and animated characters, handled all editing, compositing, and motion-graphics within After Effects, and created promotional print materials for the show premiere.   
 
 **Designer, Web Tech, Social Media Manager Internship**   
-_Leadership Asheville_   
-> Internship August 2012 - December 2012   
+_Leadership Asheville (Internship)_   
+> August 2012 - December 2012   
 
 Managed web site maintenance within Wordpress for an active portal used by over 80 participants of an annual leadership training course.   
 
