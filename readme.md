@@ -23,7 +23,7 @@ Pulling from a diverse professional background I architect custom, holistic solu
 ##### Development
 - HTML5, Pug, CSS3, SASS
 - Node, Express, Vue, Babel
-- Handlebars, Moment, Jquery
+- Jquery, Handlebars, Moment
 - Linux, Apache, PHP, SQL, C#
 
 ##### Design & Animation
