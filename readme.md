@@ -21,10 +21,10 @@ Pulling from a diverse professional background I architect custom, holistic solu
 ## Proficiency
 
 ##### Development
-- HTML5, CSS3, SASS
-- ES5, ES6, Node, Electron, JSON
-- Babel, Express, Handlebars, Jquery
-- Linux, Apache, C#, PHP
+- HTML5, Pug, CSS3, SASS
+- Node, Express, Vue, Babel
+- Handlebars, Moment, Jquery
+- Linux, Apache, PHP, SQL, C#
 
 ##### Design & Animation
 - Photoshop, Illustrator
