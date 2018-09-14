@@ -71,13 +71,13 @@ _Element-360_
 
 I handled all client-branded visuals and web development including image & HTML5 ad creation, landing page campaigns, email communication design & coding, behaviour/heat- map analysis, and technical SEO auditing for 40+ national real estate communities.     
 
-I developed internal tools to facilitate SEO, campaign reporting, CRO, and user experience. Led A/B and multivariant testing campaigns in market research, design planning, and client reporting. Regularly audited performance of image/text ads, and conversion rate & organic search improvements.    
+I developed internal tools to facilitate SEO, campaign reporting, CRO, and user experience. Led A/B and multivariate testing campaigns in market research, design planning, and client reporting. Regularly audited performance of image/text ads, and conversion rate & organic search improvements.    
 
 **Contract UX Designer**   
 _ThingFace_
 > Aug 2014 - Sept 2016   
 
-I developed internal tools to facilitate SEO, campaign reporting, CRO, and user experience. Led A/B and multivariant testing campaigns in market research, design planning, and client reporting. Regularly audited performance of image/text ads, and conversion rate & organic search improvements.    
+During a two-month contract I designed and prototyped an IOT app authoring web-application - I outlined the scope of the app's services, planned the implementation of the SPA front end, storyboarded the user flow, and created promotional & proof-of-concept visual assets.   
 
 **Game Artist, Animator, Video Editor**   
 _The Littlest Golfer, Inc._   
