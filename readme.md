@@ -26,12 +26,11 @@ I design & develop cross-platform software with a focus on clear visual communic
 
 ##### Development
 - Frontend in HTML5, Pug, CSS3, VueJS, Handlebars, with a strong focus in Vanilla JS
-- Backend generally in NodeJS using Express, or PHP
+- Backend in NodeJS using Express, or PHP
 - Extensive experience in Linux environments, including some bash scripting
 
 ##### Project Management & Communication
 - Team development using Git and SVN, & management and testing with Pivotal, Jira, Asana, and Testrail
-- Pivotal, Jira, Trello, Asana, Slack
 
 ##### Marketing & Testing
 - Analytics and marketing with Google Analytics, Matomo, Adwords
@@ -49,14 +48,14 @@ I produce user flows, interactive prototypes, style guidelines, and interfaces f
 Additional roles:     
 - Guide offshore teams in company design spec and software interfacing
 - Consult with the sales team for lead generation, SEO, analytics, CRM, and marcom
-- Provide QA for software release, security, testing, and client support
+- Provide QA for software release, security, testing, and client support    
 
 
 **Marketing Designer, Web Developer**   
 _Element-360_   
 > September 2014 - May 2016   
 
-I created landing pages, display ads, email newsletters, and provided device analytics & heatmap analysis for over 40 national real estate clients.
+I created landing pages, display ads, email newsletters, and provided device analytics & heatmap analysis for over 40 national real estate clients.   
 
 I led and reported on all A/B & multivariate testing, and audited performance of image/text ads, conversion, and organic search improvements.    
 
@@ -70,12 +69,13 @@ During a two-month contract I designed and prototyped an IOT app authoring web-a
 _The Littlest Golfer, Inc._   
 > April 2013 - August 2014   
 
-I led art direction for the 2D mobile game, and developed a pilot 3D episode. For the game I created UI, environment textures, character animation sprites, and designed puzzle-based levels. For the pilot I handled character modeling & animation, video editing & compositing, and marketing promo design.
+I led art direction for the 2D mobile game, and developed a pilot 3D episode. For the game I created UI, environment textures, character animation sprites, and designed puzzle-based levels. For the pilot I handled character modeling & animation, video editing & compositing, and marketing promo design.   
 
 
 **Designer, Web Tech, Social Media Manager Internship**   
 _Leadership Asheville (Internship)_   
 > August 2012 - December 2012   
+
 I managed portal maintenance and updates for the annual leadership training course. In addition, I created event stationary and promo prints for fundraisers, designed seasonal event newsletters, and managed online donation records and contact database.   
 
 ## Education
