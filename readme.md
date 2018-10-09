@@ -25,7 +25,7 @@ I design & develop cross-platform software with a focus on clear visual communic
 - Game and UI design in Unity3D, Animation & modeling in Maya and Motionbuilder
 
 ##### Development
-- Frontend in HTML5, Pug, CSS3, VueJS, Handlebars, with a strong focus in Vanilla JS
+- Frontend in HTML5, CSS3, VueJS, with a strong focus in Vanilla JS
 - Backend in NodeJS using Express, or PHP
 - Extensive experience in Linux environments, including some bash scripting
 
