@@ -16,48 +16,35 @@ Location: San Francisco, CA
 
 I design & develop cross-platform software with a focus on clear visual communication, natural user input, and trend-agnostic, painless product experiences.   
 
-Pulling from a diverse professional background I architect custom, holistic solutions to each project that cater to the unique and evolving needs of both client & end-user.   
-
 ## Proficiency
 
-##### Development
-- HTML5, Pug, CSS3, SASS
-- Node, Express, Vue, Babel
-- Jquery, Handlebars, Moment
-- Linux, Apache, PHP, SQL, C#
-
 ##### Design & Animation
-- Photoshop, Illustrator
-- XD, InvisionApp, Sketch, Gliffy
-- After Effects, Premiere, FCPX
-- Unity3D, Maya
+- Prototyping in Adobe XD, InvisionApp, Draw.io, and Gliffy
+- Image editing and painting in Photoshop, and vector design in Illustrator/Inkscape
+- Video editing and motion graphics in After Effects, Premiere, and Final Cut Pro
+- Game and UI design in Unity3D, Animation & modeling in Maya and Motionbuilder
+
+##### Development
+- Frontend in HTML5, Pug, CSS3, VueJS, Handlebars, with a strong focus in Vanilla JS
+- Backend generally in NodeJS using Express, or PHP
+- Extensive experience in Linux environments, including some bash scripting
 
 ##### Project Management & Communication
-- Git, Subversion
+- Team development using Git and SVN, & management and testing with Pivotal, Jira, Asana, and Testrail
 - Pivotal, Jira, Trello, Asana, Slack
 
 ##### Marketing & Testing
-- Google Analytics, Matomo(Piwik)
-- Adwords, Tag Manager, Search Console
-- Salesforce, Hubspot, Insightly
-- Testrail
-- Mailchimp, Campaign Monitor
-- Visual Website Optimizer
+- Analytics and marketing with Google Analytics, Matomo, Adwords
+- Salesforce & Insightly CRMs, Mailchimp & Campaign Monitor email marketing
+- A/B testing with Visual Website Optimizer and Optimizely
 
 ## Experience
 
-**Front-End Designer & Developer, Animator**   
+**Front-End Designer & Developer**   
 _Mursion_   
 > May 2016 - Present   
 
-I produce hi-fidelity interactive wireframes & prototypes and lead UX/design planning for emerging mobile, web, and native software. I develop responsive SPAs in NodeJS for web-based product and Unity3D interfaces in C# for native software.   
-
-Products I design and develop include:    
-- Video recording analytics
-- Session booking & management calendars
-- System profiling & verification
-- User and client management
-- Simulation control HUD
+I produce user flows, interactive prototypes, style guidelines, and interfaces for mobile, desktop, and VR. I also develop in NodeJS for web-based product and C# for native Unity3D software.   
 
 Additional roles:     
 - Guide offshore teams in company design spec and software interfacing
@@ -69,9 +56,9 @@ Additional roles:
 _Element-360_   
 > September 2014 - May 2016   
 
-I handled all client-branded visuals and web development including image & HTML5 ad creation, landing page campaigns, email communication design & coding, behaviour/heat- map analysis, and technical SEO auditing for 40+ national real estate communities.     
+I created landing pages, display ads, email newsletters, and provided device analytics & heatmap analysis for over 40 national real estate clients.
 
-I developed internal tools to facilitate SEO, campaign reporting, CRO, and user experience. Led A/B and multivariate testing campaigns in market research, design planning, and client reporting. Regularly audited performance of image/text ads, and conversion rate & organic search improvements.    
+I led and reported on all A/B & multivariate testing, and audited performance of image/text ads, conversion, and organic search improvements.    
 
 **Contract UX Designer**   
 _ThingFace_
@@ -83,20 +70,13 @@ During a two-month contract I designed and prototyped an IOT app authoring web-a
 _The Littlest Golfer, Inc._   
 > April 2013 - August 2014   
 
-I led art direction for 2D mobile game created in Unity3D and sold on the App Store and Google Play. I created the UI, tiling environment textures, character animations spritesheets, designed puzzle-based levels, and image ads for the game release.    
+I led art direction for the 2D mobile game, and developed a pilot 3D episode. For the game I created UI, environment textures, character animation sprites, and designed puzzle-based levels. For the pilot I handled character modeling & animation, video editing & compositing, and marketing promo design.
 
-Additionally, working in a small team to create a 3D Animated Pilot children's show I:
-- Designed, modeled, rigged, and animated characters
-- Handled all editing, compositing, and motion-graphics within After Effects
-- Created promotional print materials for the show premiere
 
 **Designer, Web Tech, Social Media Manager Internship**   
 _Leadership Asheville (Internship)_   
 > August 2012 - December 2012   
-
-Managed web site maintenance within Wordpress for an active portal used by over 80 participants of an annual leadership training course.   
-
-In addition, created event stationary and promo prints for fundraisers, designed seasonal event newsletters, promoted events on social media, and managed online donation records and contact database.   
+I managed portal maintenance and updates for the annual leadership training course. In addition, I created event stationary and promo prints for fundraisers, designed seasonal event newsletters, and managed online donation records and contact database.   
 
 ## Education
 
