@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.40001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="nic-fontaine-resume-202001.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4544"
+       spreadMethod="pad"
+       gradientTransform="matrix(360,0,0,-360,202.80664,738.9292)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4540"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4542"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ee7a16" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4642"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4640"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4650"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4648"
+         d="M 171.665,733.159 H 564.57 V 720.667 H 171.665 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4650-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4648-1"
+         d="M 171.665,733.159 H 564.57 V 720.667 H 171.665 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4650-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4648-6"
+         d="M 171.665,733.159 H 564.57 V 720.667 H 171.665 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4650-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4648-7"
+         d="M 171.665,733.159 H 564.57 V 720.667 H 171.665 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4650-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4648-73"
+         d="M 171.665,733.159 H 564.57 V 720.667 H 171.665 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="526.61702"
+     inkscape:cy="502.35717"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4526"
+     showgrid="false"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2506"
+     inkscape:window-height="1440"
+     inkscape:window-x="54"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="in"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4842" />
+    <sodipodi:guide
+       position="194.05909,222.90279"
+       orientation="1,0"
+       id="guide5477"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.599992)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,32.147078,350.12918)"
+       inkscape:label="nic-fontaine-resume-201808"
+       id="g4526">
+      <g
+         id="g4528"
+         transform="translate(-102.85715,142.5)">
+        <g
+           id="g4530">
+          <g
+             id="g4536">
+            <g
+               id="g4538">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4546"
+                 style="fill:url(#linearGradient4544);stroke:none"
+                 d="m 202.807,738.462 h 360 v 0.935 h -360 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4548"
+         style="fill:#eac1a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78815782"
+         d="m 25.142855,786.72843 h -82 V 821 h 82 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         id="text4552"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#e6ad86;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="-38.665245"
+         y="-827.33203">
+        <tspan
+           id="tspan4550"
+           sodipodi:role="line"
+           y="-827.33203"
+           x="-38.665245 -31.723248 -22.415245 -10.819244 0.77675623 8.8887558 16.779755"
+           style="font-size:11px">SUMMARY</tspan>
+      </text>
+      <text
+         id="text4556"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#ee7a16;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="379.88895"
+         y="-886.81543">
+        <tspan
+           id="tspan4554"
+           sodipodi:role="line"
+           y="-886.81543"
+           x="379.88895 390.17896 393.44095 399.81094 403.10095 410.01697 418.13696 426.43896 431.14294 438.64694 441.90897 450.21097">Nic Fontaine</tspan>
+      </text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4558"
+         style="fill:#e9aa7c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07164824"
+         d="m 25.142855,625.666 h -82 v 142.57766 h 82 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         id="text4562"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#e6ad86;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="-56.458244"
+         y="-773.83203">
+        <tspan
+           id="tspan4560"
+           sodipodi:role="line"
+           y="-773.83203"
+           x="-56.458244 -48.788246 -40.897243 -30.939247 -24.387245 -20.175243 -12.154244 -7.9422464 -0.90924543 8.7757559 16.796753"
+           style="font-size:11px">PROFICIENCY</tspan>
+      </text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4564"
+         style="fill:#e59770;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97618234"
+         d="m 25.142855,205.69797 h -82 V 604.5 h 82 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         id="text4568"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#e6ad86;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="-49.087147"
+         y="-610.33203">
+        <tspan
+           id="tspan4566"
+           sodipodi:role="line"
+           y="-610.33203"
+           x="-49.087147 -42.054146 -34.631145 -26.961145 -19.928144 -12.037146 -7.8251448 -0.7921471 8.8928547 16.913855"
+           style="font-size:11px">EXPERIENCE</tspan>
+      </text>
+      <text
+         id="text4582"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="49.642357"
+         y="-776.76752">
+        <tspan
+           id="tspan4580"
+           sodipodi:role="line"
+           x="49.642357"
+           y="-776.76752">Skillset</tspan>
+      </text>
+      <text
+         id="text4592"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="74.002357"
+         y="-777.2655">
+        <tspan
+           id="tspan4590"
+           sodipodi:role="line"
+           x="74.002357"
+           y="-769.0766" />
+      </text>
+      <text
+         id="text4618"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:2.0999999;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="49.543343"
+         y="-781.83752">
+        <tspan
+           id="tspan4616"
+           sodipodi:role="line"
+           x="49.543343"
+           y="-771.15851" />
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-754.35852"
+           id="tspan4862"
+           style="font-size:9px;line-height:1.79999995">- Specification, architecture, user research, and timelines</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-737.55853"
+           id="tspan4864"
+           style="font-size:9px;line-height:1.79999995">- User roles/permissions, onboarding, &amp; product integration</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-720.75854"
+           id="tspan4866"
+           style="font-size:9px;line-height:1.79999995">- Concepting, wireframing, and prototyping</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-703.9585"
+           id="tspan4868"
+           style="font-size:9px;line-height:1.79999995">- Desigining styleguides, layouts, user flows, and tutorials</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-687.15851"
+           id="tspan4870"
+           style="font-size:9px;line-height:1.79999995">- Development of POC, interfaces, and internal tools</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-670.35852"
+           id="tspan4872"
+           style="font-size:9px;line-height:1.79999995">- Release documentation, UAT &amp; QA, and training</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="49.543343"
+           y="-653.55853"
+           id="tspan4876"
+           style="font-size:9px;line-height:1.79999995">- Analytics, reporting, and feature planning</tspan>
+      </text>
+      <text
+         id="text4674"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="48.805458"
+         y="-614.4696">
+        <tspan
+           id="tspan4672"
+           sodipodi:role="line"
+           y="-614.4696"
+           x="48.805458 53.701454 57.656052 63.182053 69.050056 72.911057 76.160057 81.15506 87.023064 92.675056 94.970047 101.58505 106.76906 111.84506 117.11905 119.81906 125.34505 130.99706 136.27106 140.31206 142.87706 145.17206 151.78705 157.06105 161.48906 164.18906 169.84105 175.70906 180.98305 185.02405 187.58905 189.88405 196.04906 201.91705 204.61705 213.41005 218.80106 222.66205 228.18805 232.22905">Front-End Developer, Designer, Animator</tspan>
+      </text>
+      <text
+         id="text4678"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="240.61404"
+         y="-614.4696">
+        <tspan
+           id="tspan4676"
+           sodipodi:role="line"
+           y="-614.4696"
+           x="240.61404 243.38605">-</tspan>
+      </text>
+      <text
+         id="text4682"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#7f7d7e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="250.26746"
+         y="-614.4696">
+        <tspan
+           id="tspan4680"
+           sodipodi:role="line"
+           y="-614.4696"
+           x="250.26746 258.70944 264.57745 268.61847 273.04645 275.74646 281.27246 287.14044 289.70544 292.00046 295.45645 301.32446 305.90546">Mursion, Inc.</tspan>
+      </text>
+      <text
+         id="text4702"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="48.805458"
+         y="-592.46759">
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-592.46759"
+           id="tspan5304"
+           style="line-height:1.60000002">- Outline, document, and QA: user-flows, product/feature releases, training, &amp; UX enhancement</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-578.06757"
+           style="line-height:1.60000002"
+           id="tspan4673">- Design/develop prototypes, internal tools, component libraries, &amp; client-facing products</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-563.6676"
+           style="line-height:1.60000002"
+           id="tspan4675">- Guide dev teams in feature spec, branding, and software interfacing, and product architecture</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-549.26758"
+           style="line-height:1.60000002"
+           id="tspan4677">- Consult with the sales/marketing for design, lead generation, SEO, analytics, CRM, and marcom</tspan>
+      </text>
+      <text
+         id="text4736"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="scale(1,-1)"
+         x="377.68484"
+         y="-614.32111">
+        <tspan
+           id="tspan4734"
+           sodipodi:role="line"
+           x="377.68484"
+           y="-614.32111">May 2016 - Present</tspan>
+      </text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+         x="103.58132"
+         y="-668.68884"
+         id="text4855"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan4853"
+           x="103.58132"
+           y="-642.14587"
+           style="stroke-width:0.75" /></text>
+      <text
+         id="text4618-2"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="69.043343"
+         y="-883.83752"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4616-3"
+           sodipodi:role="line"
+           x="69.043343"
+           y="-875.64862" />
+        <tspan
+           sodipodi:role="line"
+           x="69.043343"
+           y="-864.39862"
+           id="tspan4876-8"
+           style="line-height:1.5;stroke-width:0.99999994" />
+      </text>
+      <text
+         id="text4618-8"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="50.985046"
+         y="-826.70618"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="50.985046"
+           y="-826.70618"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Italic';stroke-width:0.99999994"
+           id="tspan5136">From specification to release, I design &amp; develop cross-platform products utilizing a diverse skillset,</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="50.985046"
+           y="-813.20618"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Italic';stroke-width:0.99999994"
+           id="tspan5921">technical expertise, non-technical communication, business acumen, and user empathy.</tspan>
+      </text>
+      <text
+         id="text4582-4"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="317.37283"
+         y="-776.745"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4580-8"
+           sodipodi:role="line"
+           x="317.37283"
+           y="-776.745">Software &amp; Tech</tspan>
+      </text>
+      <text
+         id="text4618-4"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.60000002;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="317.27383"
+         y="-777.315"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-768.63599"
+           id="tspan4876-6"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994" />
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-755.836"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5230">Adobe XD, InvisionApp, Draw.io, Gliffy</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-743.03601"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5232">HTML, CSS, JS</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-730.23602"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5236">NodeJS, Apache, PHP, Bash, C#</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-717.43597"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan4685">Photoshop, Illustrator, Inkscape</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-704.63599"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5238">Unity3D, Maya, Motionbuilder</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-691.836"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5240">After Effects, Premiere, Final Cut Pro</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-679.03601"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5242">Testrail, Pivotal, Jira, Asana</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-666.23602"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5244">Git, SVN</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-653.43597"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5246">VWO, Optimizely</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="317.27383"
+           y="-640.63599"
+           style="font-size:8px;line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5248" />
+      </text>
+      <text
+         id="text4674-6"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-429.9696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4672-8"
+           sodipodi:role="line"
+           x="48.805458"
+           y="-429.9696">Marketing Designer, Web Developer</tspan>
+      </text>
+      <text
+         id="text4678-5"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="219.61404"
+         y="-429.9696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4676-9"
+           sodipodi:role="line"
+           y="-429.9696"
+           x="219.61404 222.38606">-</tspan>
+      </text>
+      <text
+         id="text4682-0"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#7f7d7e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="229.26746"
+         y="-429.9696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4680-0"
+           sodipodi:role="line"
+           x="229.26746"
+           y="-429.9696">Element-360</tspan>
+      </text>
+      <text
+         id="text4702-0"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-407.96759"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-407.96759"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5535">- Designed &amp; developed landing pages, display ads, and email newsletters in client branding</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-393.5676"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan4681">- Provided device analytics, heatmap analysis, A/B testing, and lead reporting, and technical SEO</tspan>
+      </text>
+      <text
+         id="text4736-8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="368.68484"
+         y="-429.82111"
+         transform="scale(1,-1)">
+        <tspan
+           style="font-size:7px;stroke-width:0.99999994"
+           id="tspan4734-6"
+           sodipodi:role="line"
+           x="368.68484"
+           y="-429.82111">Sept 2014 - May 2016</tspan>
+      </text>
+      <text
+         id="text4674-6-9"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-357.9696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4672-8-0"
+           sodipodi:role="line"
+           x="48.805458"
+           y="-357.9696">Contract UX Designer</tspan>
+      </text>
+      <text
+         id="text4678-5-3"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="155.11404"
+         y="-357.9696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4676-9-7"
+           sodipodi:role="line"
+           y="-357.9696"
+           x="155.11404 157.88606">-</tspan>
+      </text>
+      <text
+         id="text4682-0-4"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#7f7d7e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="164.76746"
+         y="-357.9696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4680-0-6"
+           sodipodi:role="line"
+           x="164.76746"
+           y="-357.9696">ThingFace</tspan>
+      </text>
+      <text
+         id="text4702-0-6"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-335.96759"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-335.96759"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5604">I designed and prototyped an IOT app authoring web-application - defining features &amp;</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-321.5676"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5666">user-roles, outlining the SPA front-end, wireframing UX, and creating promotional visual assets.</tspan>
+      </text>
+      <text
+         id="text4736-8-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="368.68484"
+         y="-357.82111"
+         transform="scale(1,-1)">
+        <tspan
+           style="font-size:7px;stroke-width:0.99999994"
+           id="tspan4734-6-2"
+           sodipodi:role="line"
+           x="368.68484"
+           y="-357.82111">AUG 2014 - SEPT 2014</tspan>
+      </text>
+      <text
+         id="text4674-6-9-8"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-284.4696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4672-8-0-8"
+           sodipodi:role="line"
+           x="48.805458"
+           y="-284.4696">Game Artist, Animator, Video Editor</tspan>
+      </text>
+      <text
+         id="text4678-5-3-9"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="216.61404"
+         y="-284.4696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4676-9-7-3"
+           sodipodi:role="line"
+           y="-284.4696"
+           x="216.61404 219.38606">-</tspan>
+      </text>
+      <text
+         id="text4682-0-4-8"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#7f7d7e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="226.26746"
+         y="-284.4696"
+         transform="scale(1,-1)">
+        <tspan
+           style="stroke-width:0.99999994"
+           id="tspan4680-0-6-0"
+           sodipodi:role="line"
+           x="226.26746"
+           y="-284.4696">The Littlest Golfer, Inc.</tspan>
+      </text>
+      <text
+         id="text4702-0-6-8"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-262.46759"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-262.46759"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5535-8-3">I led art direction for the 2D mobile game, and developed a pilot 3D episode. For the game I</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-248.0676"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5600-5">created: UI, environment textures, character animation sprites, and puzzle-based levels.</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-233.66759"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5602-9">For the pilot I handled: character modeling &amp; animation, video editing &amp; compositing, and</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-219.26759"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan5604-5">marketing promo design.</tspan>
+      </text>
+      <text
+         id="text4736-8-7-2"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="368.68484"
+         y="-284.32111"
+         transform="scale(1,-1)">
+        <tspan
+           style="font-size:7px;stroke-width:0.99999994"
+           id="tspan4734-6-2-9"
+           sodipodi:role="line"
+           x="368.68484"
+           y="-284.32111">APR 2013 - AUG 2014</tspan>
+      </text>
+      <g
+         id="g4644-1"
+         transform="translate(-120.85715,142.49997)">
+        <g
+           id="g4646-0" />
+        <g
+           id="g4670-7">
+          <g
+             style="opacity:0.80000299"
+             id="g4668-0"
+             clip-path="url(#clipPath4650-0)">
+            <text
+               id="text4654-7"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#3c3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="matrix(1,0,0,-1,173.5352,726.3032)">
+              <tspan
+                 id="tspan4652-1"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 5.2160001 7.552 11.664 19.128 24.344 26.68 30.792 33.816002 38.928001 44.144001 47.304001 52.063999 54.400002 59.616001 64.400002 66.816002 70.928001 76.040001 83.792">nic@nicfontaine.com</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4644-6"
+         transform="translate(-111.85715,142.49997)">
+        <g
+           id="g4646-6" />
+        <g
+           id="g4670-3">
+          <g
+             style="opacity:0.80000299"
+             id="g4668-9"
+             clip-path="url(#clipPath4650-1)">
+            <text
+               id="text4658-7"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#858384;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="matrix(1,0,0,-1,290.2552,726.3032)">
+              <tspan
+                 id="tspan4656-3"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 4.6799998 9.3599997 14.04 16.360001 21.040001 25.719999 30.4 32.720001 37.400002 42.080002 46.759998 51.439999">828.719.2374</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4644-7"
+         transform="translate(-107.35715,142.49997)">
+        <g
+           id="g4646-5" />
+        <g
+           id="g4670-5">
+          <g
+             style="opacity:0.80000299"
+             id="g4668-4"
+             clip-path="url(#clipPath4650-3)">
+            <text
+               id="text4662-1"
+               style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Bold;writing-mode:lr-tb;fill:#4f4c4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="matrix(1,0,0,-1,372.2712,726.3032)">
+              <tspan
+                 id="tspan4660-6"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 5.5279999 8.2399998 12.624 15.992 21.216 26.743999 30.488001 35.591999 38.304001 43.832001 48.832001 51.383999 55.768002 60.992001 69.120003">nicfontaine.com</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4644-3"
+         transform="translate(-104.35715,142.49997)">
+        <g
+           id="g4646-9" />
+        <g
+           id="g4670-58">
+          <g
+             style="opacity:0.80000299"
+             id="g4668-6"
+             clip-path="url(#clipPath4650-4)">
+            <text
+               id="text4666-8"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans-Italic;writing-mode:lr-tb;fill:#858384;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="matrix(1,0,0,-1,471.9672,726.3032)">
+              <tspan
+                 id="tspan4664-0"
+                 sodipodi:role="line"
+                 y="0"
+                 x="0 4.9039998 7.2399998 10.168 15.072 19.976 24.8424 27.162399 31.058399 35.8344 43.1064 46.226398 51.130402 56.034401 60.9384 63.754398 68.530403 73.434402 76.362396 81.178398 83.514397 88.418404">github.com/ngpfontaine</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <text
+         id="text4702-2"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-527.96759"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-527.96759"
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;line-height:1.60000002;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium Italic';stroke-width:0.99999994"
+           id="tspan4677-3">Product Overview:</tspan>
+      </text>
+      <text
+         id="text4702-6"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Noto Sans';-inkscape-font-specification:NotoSans;writing-mode:lr-tb;fill:#4c4d51;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+         x="48.805458"
+         y="-509.96759"
+         transform="scale(1,-1)">
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-509.96759"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan4677-6">- Mursion Portal: user/team management, session scheduling, scenario design, and analytics</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-495.5676"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan4808">- Sim Designer: visual design tool for 3D assets, with filtering, config export, and url save states</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-481.1676"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan4810">- Zoom Scheduler: account-free session scheduling, with dashboards, Zoom API, and reminders</tspan>
+        <tspan
+           sodipodi:role="line"
+           x="48.805458"
+           y="-466.76758"
+           style="line-height:1.60000002;stroke-width:0.99999994"
+           id="tspan4812">- Experience Shell: Unity3D login, installer, connection, device calibration, &amp; simulation HUD</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
