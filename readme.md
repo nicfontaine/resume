@@ -34,8 +34,7 @@ Blending VR learning, interaction design, and web/native app development to make
 ## Experience
 
 #### Sr. Product Developer
-Mursion   
-_May 2016 - Present_   
+- Mursion _(May 2016 - Present)_   
 
 Developing for cross platform user-experience in Full-stack web and AR/VR game engine. Technical art, backend pipeline, api design, front-end design & dev, testing, QA, technical documentation.   
 
@@ -43,20 +42,17 @@ Bridging art, engineering, and operations to enhance product for both internal t
 
 
 #### Marketing Designer & Front-end Developer   
-Element-360   
-_September 2014 - May 2016_   
+- Element-360 _(September 2014 - May 2016)_   
 
 Landing pages, display ads, email newsletters, device analytics, heatmaps and A/B testing for international real estate clients. Testing, search performance, and conversion auditing. 
 
 #### Contract UX Designer   
-ThingFace
-_Aug 2014 - Sept 2016_   
+- ThingFace _(Aug 2014 - Sept 2016)_   
 
 IOT app authoring ecosystem - research, design, and development.  
 
 #### Game Artist, Animator, Video Editor   
-The Littlest Golfer, Inc.   
-_April 2013 - August 2014_   
+- The Littlest Golfer, Inc. _(April 2013 - August 2014)_   
 
 2D mobile game art design and 3D pilot show - script to launch.   
 
@@ -64,8 +60,7 @@ UI, environment, character animation, level design. Character modeling & animati
 
 
 #### Designer, Web Tech, Social Media Manager Internship   
-Leadership Asheville (Internship)   
-_August 2012 - December 2012_   
+- Leadership Asheville _(August 2012 - December 2012)_   
 
 Managed web site maintenance within Wordpress for an active portal used by over 80 participants of an annual leadership training course.   
 
