@@ -1,82 +1,71 @@
 # Nic Fontaine
 
-> Digital Designer, Developer, & Marketing Creative   
-
-**Navigation:** [Contact](https://github.com/ngpfontaine/resume/blob/master/readme.md#contact)  |  [Summary](https://github.com/ngpfontaine/resume/blob/master/readme.md#summary)  |  [Proficiency](https://github.com/ngpfontaine/resume/blob/master/readme.md#proficiency)  |  [Experience](https://github.com/ngpfontaine/resume/blob/master/readme.md#experience)  |  [Education](https://github.com/ngpfontaine/resume/blob/master/readme.md#education)
-
-
-## Contact
-
 Email: [nic@nicfontaine.com](mailto:nic@nicfontaine.com)   
 Portfolio: [nicfontaine.com](https://nicfontaine.com)   
 LinkedIn: [Linkedin](https://www.linkedin.com/in/nic-fontaine-67304062/)   
-Location: San Francisco, CA
 
-## Summary
+## About
 
-I design & develop cross-platform software with a focus on clear visual communication, natural user input, and trend-agnostic, painless product experiences.   
+Blending VR Learning, Interaction Design, and Web/Native App Development  
+
+## What I Do
+- Spec and prototype software feature enhancements
+- Research architectural, operational, and user impediments
+- Build behind-the-scenes pipeline tooling
+- Craft UI & art for learning and interaction
+- Add polish and customization to 3D art
+- Distill knowledge & research into technical documentation & leadership insight
+- Facilitate R&D collaboration across departments
+- Make 'what-ifs' possible, with a diverse skill-set of modern technological expertise
 
 ## Proficiency
-
-##### Design & Animation
-- Prototyping in Adobe XD, InvisionApp, Draw.io, and Gliffy
-- Image editing and painting in Photoshop, and vector design in Illustrator/Inkscape
-- Video editing and motion graphics in After Effects, Premiere, and Final Cut Pro
-- Game and UI design in Unity3D, Animation & modeling in Maya and Motionbuilder
-
-##### Development
-- Frontend in HTML5, CSS3, VueJS, with a strong focus in Vanilla JS
-- Backend in NodeJS using Express, or PHP
-- Extensive experience in Linux environments, including some bash scripting
-
-##### Project Management & Communication
-- Team development using Git and SVN, & management and testing with Pivotal, Jira, Asana, and Testrail
-
-##### Marketing & Testing
-- Analytics and marketing with Google Analytics, Matomo, Adwords
-- Salesforce & Insightly CRMs, Mailchimp & Campaign Monitor email marketing
-- A/B testing with Visual Website Optimizer and Optimizely
+- Frontend development in React, HTML, CSS, and VanillaJS
+- Prototype & UI design in Figma, Adobe XD, Invision, and browser
+- Backend development in NodeJS, Express, Linux
+- Version control in Git, SVN
+- Video & motion graphics in After Effects, Premiere, Final Cut Pro
+- Game & UI development in Unity3D
+- 3D in Maya, Motionbuilder, and Zbrush
 
 ## Experience
 
-**Front-End Designer & Developer**   
+**Sr. Product Developer**   
 _Mursion_   
 > May 2016 - Present   
 
-I produce user flows, interactive prototypes, style guidelines, and interfaces for mobile, desktop, and VR. I also develop in NodeJS for web-based product and C# for native Unity3D software.   
+Developing for cross platform user-experience in Full-stack web and AR/VR game engine. Technical art, backend pipeline, api design, front-end design & dev, testing, QA, technical documentation.   
 
-Additional roles:     
-- Guide offshore teams in company design spec and software interfacing
-- Consult with the sales team for lead generation, SEO, analytics, CRM, and marcom
-- Provide QA for software release, security, testing, and client support    
+Bridging art, engineering, and operations to enhance product for both internal teams and end users. From prototype to enterprise launch.  
 
 
-**Marketing Designer, Web Developer**   
+**Marketing Designer & Front-end Developer**   
 _Element-360_   
 > September 2014 - May 2016   
 
-I created landing pages, display ads, email newsletters, and provided device analytics & heatmap analysis for over 40 national real estate clients.   
-
-I led and reported on all A/B & multivariate testing, and audited performance of image/text ads, conversion, and organic search improvements.    
+Landing pages, display ads, email newsletters, device analytics, heatmaps and A/B testing for international real estate clients. Testing, search performance, and conversion auditing. 
 
 **Contract UX Designer**   
 _ThingFace_
 > Aug 2014 - Sept 2016   
 
-During a two-month contract I designed and prototyped an IOT app authoring web-application - I outlined the scope of the app's services, planned the implementation of the SPA front end, storyboarded the user flow, and created promotional & proof-of-concept visual assets.   
+IOT app authoring ecosystem - research, design, and development.  
 
 **Game Artist, Animator, Video Editor**   
 _The Littlest Golfer, Inc._   
 > April 2013 - August 2014   
 
-I led art direction for the 2D mobile game, and developed a pilot 3D episode. For the game I created UI, environment textures, character animation sprites, and designed puzzle-based levels. For the pilot I handled character modeling & animation, video editing & compositing, and marketing promo design.   
+2D mobile game art design and 3D pilot show - script to launch.   
+
+UI, environment, character animation, level design. Character modeling & animation, video editing & compositing, and marketing promo design. 
 
 
 **Designer, Web Tech, Social Media Manager Internship**   
 _Leadership Asheville (Internship)_   
 > August 2012 - December 2012   
 
-I managed portal maintenance and updates for the annual leadership training course. In addition, I created event stationary and promo prints for fundraisers, designed seasonal event newsletters, and managed online donation records and contact database.   
+Managed web site maintenance within Wordpress for an active portal used by over 80 participants of an annual leadership training course.   
+
+In addition, I created event stationary and promo prints for fundraisers, designed seasonal event newsletters, promoted events on social media, and managed online donation records and contact database.      
 
 ## Education
 
